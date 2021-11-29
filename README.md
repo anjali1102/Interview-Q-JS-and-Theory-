@@ -6,3 +6,8 @@ These are my practice questions for interviews on 29
 ---Display data from API on screen, change "title"  when not "completed" 
 
 ## Mock 2
+
+
+
+
+questions are here https://neog-simplified.netlify.app/
