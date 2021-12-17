@@ -18,9 +18,12 @@ These are my practice questions for interviews on 29 nov
 
 ## Mock with Tanishk
 - The question was simple
-- as compared to my other mock
+- as compared to my other mocks
 - It seems like no need of eventlistener, but it requires 
 
 ## Mock with Shivam Bhaiya
-- 
-questions are here https://neog-simplified.netlify.app/
+- Create input and button, and also create an array that has any 3 colors of your choice. 
+- If the color entered in input is the same as that in the array,
+- show the message "color-   matched", else show the message "color is not in our database"
+
+Rest are on the website link in description 😀
